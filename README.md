@@ -17,23 +17,23 @@ This repository contains my personal journey of learning and implementing Data S
 | Topic               | Status  | Notes |
 |---------------------|---------|-------|
 | ✅ Arrays            | Done    | Basic to advanced problems solved |
-| ⬜ Strings           | Done    | String manipulation and patterns |
-| ⬜ Linked Lists      | Done    | Singly, doubly, and cycle detection |
-| ⬜ Stacks            | Done    | Infix, postfix, and stock span |
-| ⬜ Queues            | Done    | Circular queues and dequeues |
-| ⬜ Trees             | Done    | Binary trees, BSTs, traversals |
-| ⬜ Heaps             | In Progress | Min-heap, max-heap, heap sort |
+| ⬜ Strings           | Pending    | String manipulation and patterns |
+| ⬜ Linked Lists      | Pending    | Singly, doubly, and cycle detection |
+| ⬜ Stacks            | Pending    | Infix, postfix, and stock span |
+| ⬜ Queues            | Pending    | Circular queues and dequeues |
+| ⬜ Trees             | Pending    | Binary trees, BSTs, traversals |
+| ⬜ Heaps             | Pending | Min-heap, max-heap, heap sort |
 | ⬜ Tries             | Pending | Prefix trees and autocomplete |
-| ⬜ Graphs            | Done    | BFS, DFS, Dijkstra, topological sort |
-| ⬜ Recursion         | Done    | Backtracking, permutations, combinations |
-| ⬜ Searching         | Done    | Binary search and variations |
-| ⬜ Sorting           | Done    | Merge sort, quicksort, etc. |
-| ⬜ Dynamic Programming | Done | Knapsack, LIS, LCS, etc. |
+| ⬜ Graphs            | Pending    | BFS, DFS, Dijkstra, topological sort |
+| ⬜ Recursion         | Pending    | Backtracking, permutations, combinations |
+| ⬜ Searching         | Pending    | Binary search and variations |
+| ⬜ Sorting           | Pending    | Merge sort, quicksort, etc. |
+| ⬜ Dynamic Programming | Pending | Knapsack, LIS, LCS, etc. |
 | ⬜ Bit Manipulation  | Pending | XOR, bit masks, power of two |
-| ⬜ Greedy Algorithms | Done    | Activity selection, coin change |
+| ⬜ Greedy Algorithms | Pending    | Activity selection, coin change |
 | ⬜ Segment Trees     | Pending | Range queries and updates |
 | ⬜ Disjoint Set (DSU) | Pending | Union-find, path compression |
-| ⬜ Sliding Window            | In Progress | Subarray sums, max/min windows |
+| ⬜ Sliding Window            | Pending | Subarray sums, max/min windows |
 | ⬜ Two Pointers              | Pending     | Fast traversal in sorted arrays |
 | ⬜ Prefix Sum / Difference Array | Pending | Range queries and updates |
 | ⬜ Monotonic Stack/Queue     | Pending     | Histogram, next greater element |
