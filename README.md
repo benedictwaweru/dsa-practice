@@ -89,11 +89,14 @@ dsa-practice/
 ## 📝 How to Use
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/benedictwaweru/dsa-practice.git
    ```
+   
 2. Navigate to any topic folder.
 3. Compile and run ```.cc``` files:
+
    ```bash
    g++ filename.cc -o output && ./output
    ```
