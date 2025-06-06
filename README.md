@@ -15,7 +15,7 @@ This repository contains my personal journey of learning and implementing Data S
 
 ## 🗂️ Folder Structure
 dsa-practice/
-  ├── arrays/
+├── arrays/
   ├── strings/
   ├── linked-lists/
   ├── stacks/
