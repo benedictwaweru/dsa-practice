@@ -14,20 +14,22 @@ This repository contains my personal journey of learning and implementing Data S
 ---
 
 ## 🗂️ Folder Structure
+```
 dsa-practice/
 ├── arrays/
-  ├── strings/
-  ├── linked-lists/
-  ├── stacks/
-  ├── queues/
-  ├── trees/
-  ├── graphs/
-  ├── recursion/
-  ├── sorting/
-  ├── searching/
-  ├── dp/
-  ├── bitmanipulation/
-  ├── greedy/
+├── strings/
+├── linked-lists/
+├── stacks/
+├── queues/
+├── trees/
+├── graphs/
+├── recursion/
+├── sorting/
+├── searching/
+├── dp/
+├── bitmanipulation/
+├── greedy/
+```
 
 
 > Each folder contains `.cc` files for individual problems, often accompanied by comments or explanations.
